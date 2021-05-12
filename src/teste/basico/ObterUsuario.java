@@ -10,8 +10,7 @@ public class ObterUsuario {
 
 	public static void main(String[] args) {
 		
-		EntityManagerFactory emf = Persistence
-				.createEntityManagerFactory("jpa");
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("jpa");
 		EntityManager em = emf.createEntityManager();
 		
 		Usuario usuario = em.find(Usuario.class, 7L);

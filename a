@@ -1,0 +1,14 @@
+[33medd8ef2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Using named query
+[33mb427586[m Continuation of the ManyToMany relationship
+[33m976b83a[m Introduction of the ManyToMany relationship
+[33m43d0eaa[m OneToMany relationship
+[33m27666c3[m Conclusion of OneToOne relationship classes
+[33m4988d88[m Relationship and OneToOne annotation
+[33m29b2262[m Using DAO with generics in the product class
+[33m7986c96[m DAO with JPA
+[33m9f72210[m Removing data from the database and creating a product table
+[33m6da2b72[m Data changes in the database
+[33m038e418[m Class to get more than one user
+[33m7802e5c[m Class get user
+[33m823049e[m Persistence file configuration
+[33mc3fc74c[m Created project
